@@ -29,14 +29,13 @@ Before running this application, ensure you have the following installed:
 
 3.  Install dependencies
 
-        ```bash
+    ```bash
 
     npm install
+    ```
 
-````
-
-4. Start the development server:
+4.  Start the development server:
 
     ```bash
-npm run dev
-````
+    npm run dev
+    ```
