@@ -24,7 +24,7 @@ Before running this application, ensure you have the following installed:
 2. Navigate to the project directory:
 
 ```bash
- cd simple-react-counter
+cd simple-react-counter
 ```
 
 3. Install dependencies
