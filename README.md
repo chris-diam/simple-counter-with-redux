@@ -20,3 +20,22 @@ Before running this application, ensure you have the following installed:
    ```bash
    git clone https://github.com/your-username/simple-react-counter.git
    ```
+
+2. Navigate to the project directory:
+
+```bash
+ cd simple-react-counter
+```
+
+3. Install dependencies
+
+```bash
+npm install
+
+```
+
+4. Start the development server:
+
+```bash
+npm run dev
+```
